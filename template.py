@@ -2,7 +2,7 @@ import os
 from pathlib import Path 
 import logging 
 
-logging.basicConfig(level=logging.info,format = '[%(asctime)s: %(messages)s:]') 
+logging.basicConfig(level=logging.INFO,format = '[%(asctime)s: %(message)s:]') 
 
 project_name = "CNNClassifer" 
 

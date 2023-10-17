@@ -1,1 +1,1 @@
-from CNNClassifer.utils.common import * 
+from CNNClassifer.utils.common import *

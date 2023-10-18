@@ -1,1 +1,2 @@
 from CNNClassifer.entity.config_entity import DataIngestionConfig
+from CNNClassifer.entity.config_entity import PrepareBaseModelConfig
